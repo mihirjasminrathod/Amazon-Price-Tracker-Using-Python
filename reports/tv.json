@@ -1,0 +1,68 @@
+{
+    "title":"tv",
+    "date":"06/10/2020 23:10:18",
+    "best_item":{
+       "asin":"B07N8NTX17",
+       "url":"http://www.amazon.de/dp/B07N8NTX17",
+       "title":"Telefunken XF43G511 108 cm (43 inch) TV (Full HD, Triple Tuner, Smart TV, Prime Video)",
+       "seller":"Visit the Telefunken Store",
+       "price":279.99
+    },
+    "currency":"\u20ac",
+    "filters":{
+       "min":"275",
+       "max":"650"
+    },
+    "base_link":"http://www.amazon.de/",
+    "products":[
+       {
+          "asin":"B085L2FVVK",
+          "url":"http://www.amazon.de/dp/B085L2FVVK",
+          "title":"Samsung LED TV (2020)",
+          "seller":"Visit the Samsung Store",
+          "price":353.17
+       },
+       {
+          "asin":"B07X35FXJW",
+          "url":"http://www.amazon.de/dp/B07X35FXJW",
+          "title":"Xiaomi Mi Smart TV",
+          "seller":"Visit the Xiaomi Store",
+          "price":383.91
+       },
+       {
+          "asin":"B0862194DK",
+          "url":"http://www.amazon.de/dp/B0862194DK",
+          "title":"GRUNDIG",
+          "seller":"Visit the GRUNDIG Store",
+          "price":449.99
+       },
+       {
+          "asin":"B085L8SQ9N",
+          "url":"http://www.amazon.de/dp/B085L8SQ9N",
+          "title":"Samsung LED TV (2020)",
+          "seller":"Visit the Samsung Store",
+          "price":355.89
+       },
+       {
+          "asin":"B07N8NTX17",
+          "url":"http://www.amazon.de/dp/B07N8NTX17",
+          "title":"Telefunken XF43G511 108 cm (43 inch) TV (Full HD, Triple Tuner, Smart TV, Prime Video)",
+          "seller":"Visit the Telefunken Store",
+          "price":279.99
+       },
+       {
+          "asin":"B07PGBHP37",
+          "url":"http://www.amazon.de/dp/B07PGBHP37",
+          "title":"Samsung LED TV black",
+          "seller":"Visit the Samsung Store",
+          "price":405.0
+       },
+       {
+          "asin":"B08J4G9ZQX",
+          "url":"http://www.amazon.de/dp/B08J4G9ZQX",
+          "title":"Telefunken XU55K521 55 Inch TV (Smart TV including Prime Video/Netflix/YouTube, 4K UHD, HDR, HD+)",
+          "seller":"Visit the Telefunken Store",
+          "price":399.99
+       }
+    ]
+ }
